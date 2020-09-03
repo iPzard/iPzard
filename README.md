@@ -25,7 +25,7 @@ My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in 
 
 <br>
 
-## 🗃️ Best repos
+## 🗃️ Best Repositories
 
 <a href="https://github.com/default-services/components">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=default-services&repo=components&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
