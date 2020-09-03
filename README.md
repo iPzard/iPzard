@@ -18,14 +18,14 @@ My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in 
 
 <br>
 
-## 🕵️ GitHub Stats
+## 🕵️ Stats
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=iPzard&show_icons=true&line_height=32&count_private=true&hide=stars&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iPzard&&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 
 <br>
 
-## 🗃️ My Repositories
+## 🗃️ Repositories
 
 <a href="https://github.com/default-services/components">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=default-services&repo=components&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
