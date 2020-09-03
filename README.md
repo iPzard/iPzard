@@ -1,2 +1,1 @@
-
-[![](https://raw.githubusercontent.com/iPzard/iPzard/master/profile-summary-card-output/vue/0-profile-details.svg)]()
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=iPzard&count_private=true&show_icons=true&theme=dark)
