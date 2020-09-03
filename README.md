@@ -1,4 +1,4 @@
-![hero-image](https://user-images.githubusercontent.com/8584126/92183320-e5bdfc00-ee02-11ea-9780-c2571928e1ef.png)
+![header](https://user-images.githubusercontent.com/8584126/92184024-d344c200-ee04-11ea-9fec-fce266f2bd1e.png)
 
 ## Welcome! <img src="https://user-images.githubusercontent.com/8584126/92176946-5c073200-edf4-11ea-8acd-d3f7a89b6482.gif" width="30px">
 My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in JavaScript (React, Redux, Node, Express, etc..), Python, modern HTML & CSS (including SCSS, Sass & Less), Webpack/Babel, and more.
