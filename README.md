@@ -1,3 +1,6 @@
+## Welcome! <img src="https://user-images.githubusercontent.com/8584126/92176946-5c073200-edf4-11ea-8acd-d3f7a89b6482.gif" width="30px">
+My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in JavaScript (React, Redux, Node, Express, etc..), modern HTML & CSS (including SCSS, Sass & Less), Python, Webpack/Babel, and more.
+
 ## 🧰 Libraries & Tools
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
@@ -13,6 +16,6 @@
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 
-<br><br>
-
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=iPzard&count_private=true&show_icons=true&hide=stars&theme=dark)
+## 📈 GitHub Stats
+![Daniel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iPzard&&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=iPzard&show_icons=true&line_height=32&count_private=true&hide=stars&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
