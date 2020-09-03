@@ -16,6 +16,8 @@ My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in 
 ![](https://img.shields.io/badge/Code-Babel-informational?style=flat&logo=babel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=electron&logoColor=white&color=2bbc8a)
 
+<br>
+
 ## 🕵️ GitHub Stats
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iPzard&&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=iPzard&show_icons=true&line_height=32&count_private=true&hide=stars&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
