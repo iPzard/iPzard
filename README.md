@@ -1,7 +1,7 @@
 ![header1](https://user-images.githubusercontent.com/8584126/92182045-8f9b8980-edff-11ea-8dfd-e942b54f8c52.png)
 
 ## Welcome! <img src="https://user-images.githubusercontent.com/8584126/92176946-5c073200-edf4-11ea-8acd-d3f7a89b6482.gif" width="30px">
-My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in JavaScript (React, Redux, Node, Express, etc..), modern HTML & CSS (including SCSS, Sass & Less), Python, Webpack/Babel, and more.
+My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in JavaScript (React, Redux, Node, Express, etc..), Python, modern HTML & CSS (including SCSS, Sass & Less), Webpack/Babel, and more.
 
 ## Programming Languages
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
