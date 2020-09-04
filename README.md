@@ -1,4 +1,6 @@
-[![header](https://user-images.githubusercontent.com/8584126/92184024-d344c200-ee04-11ea-9fec-fce266f2bd1e.png)](https://www.linkedin.com/in/wade-daniel-w)
+<a href="https://www.linkedin.com/in/wade-daniel-w" target="_blank">
+  <img src="https://user-images.githubusercontent.com/8584126/92184024-d344c200-ee04-11ea-9fec-fce266f2bd1e.png" />
+</a>
 
 My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in JavaScript (React, Redux, Node, Express, etc..), Python, modern HTML & CSS (including SCSS, Sass & Less), Webpack/Babel, and more.
 
@@ -28,26 +30,26 @@ My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in 
 ## 🗃️ Popular Repos
 
 <a href="https://github.com/default-services/components">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=default-services&repo=components&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800&show_owner=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-services&repo=components&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800&show_owner=true"/>
 </a>
 
 <a href="https://github.com/default-services/icons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=default-services&repo=icons&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-services&repo=icons&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800&show_owner=true" />
 </a>   
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/iPzard/media-file-renamer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=media-file-renamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=media-file-renamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/iPzard/electron-react-python-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=electron-react-python-template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=electron-react-python-template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/iPzard/multi-app-express-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=multi-app-express-server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=multi-app-express-server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" />
 </a>
 
