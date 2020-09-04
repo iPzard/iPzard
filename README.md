@@ -10,7 +10,7 @@ My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in 
 ![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=2bbc8a)
 
 ## Libraries & Tools
-![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react|&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=2bbc8a)
