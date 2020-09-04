@@ -1,30 +1,28 @@
-![header](https://user-images.githubusercontent.com/8584126/92184024-d344c200-ee04-11ea-9fec-fce266f2bd1e.png)
+[![header](https://user-images.githubusercontent.com/8584126/92184024-d344c200-ee04-11ea-9fec-fce266f2bd1e.png)](https://www.linkedin.com/in/wade-daniel-w)
 
 My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in JavaScript (React, Redux, Node, Express, etc..), Python, modern HTML & CSS (including SCSS, Sass & Less), Webpack/Babel, and more.
 
 ## Programming Languages
 [![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=28b584)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=28b584)](https://www.python.org/)
-[![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=28b584)](https://sass-lang.com/)
+[![python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=28b584)](https://www.python.org/)
+[![sass](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=28b584)](https://sass-lang.com/)
 <br>
-[![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=28b584)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=28b584)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![html](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=28b584)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![css](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=28b584)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Libraries & Tools
-[![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=28b584)](https://reactjs.org)
-[![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=28b584)](https://redux.js.org)
-[![](https://img.shields.io/badge/NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=28b584)](https://nodejs.org)
-[![](https://img.shields.io/badge/Electron-informational?style=for-the-badge&logo=electron&logoColor=white&color=28b584)](https://www.electronjs.org)
+[![react](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=28b584)](https://reactjs.org)
+[![redux](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=28b584)](https://redux.js.org)
+[![nodejs](https://img.shields.io/badge/NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=28b584)](https://nodejs.org)
+[![electron](https://img.shields.io/badge/Electron-informational?style=for-the-badge&logo=electron&logoColor=white&color=28b584)](https://www.electronjs.org)
 <br>
-[![](https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=28b584)](https://webpack.js.org)
-[![](https://img.shields.io/badge/Babel-informational?style=for-the-badge&logo=babel&logoColor=white&color=28b584)](https://babeljs.io)
+[![webpack](https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=28b584)](https://webpack.js.org)
+[![babel](https://img.shields.io/badge/Babel-informational?style=for-the-badge&logo=babel&logoColor=white&color=28b584)](https://babeljs.io)
 <br>
 
 ## 🕵️ GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=iPzard&show_icons=true&line_height=32&count_private=true&hide=stars&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iPzard&&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800)
-
-
+[![stats](https://github-readme-stats.vercel.app/api?username=iPzard&show_icons=true&line_height=32&count_private=true&hide=stars&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800)](https://github.com/iPzard)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPzard&&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800)](https://github.com/iPzard)
 <br>
 
 ## 🗃️ Popular Repos
