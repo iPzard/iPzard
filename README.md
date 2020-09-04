@@ -22,8 +22,8 @@ My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in 
 <br>
 
 ## 🕵️ GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=iPzard&show_icons=true&line_height=32&count_private=true&hide=stars&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iPzard&&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![](https://github-readme-stats.vercel.app/api?username=iPzard&show_icons=true&line_height=32&count_private=true&hide=stars&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iPzard&&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800)
 
 
 <br>
@@ -31,26 +31,26 @@ My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in 
 ## 🗃️ Popular Repos
 
 <a href="https://github.com/default-services/components">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=default-services&repo=components&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=default-services&repo=components&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/default-services/icons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=default-services&repo=icons&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=default-services&repo=icons&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" />
 </a>   
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/iPzard/media-file-renamer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=media-file-renamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=media-file-renamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/iPzard/electron-react-python-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=electron-react-python-template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=electron-react-python-template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/iPzard/multi-app-express-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=multi-app-express-server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=multi-app-express-server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" />
 </a>
 
