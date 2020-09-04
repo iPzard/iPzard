@@ -3,12 +3,12 @@
 My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in JavaScript (React, Redux, Node, Express, etc..), Python, modern HTML & CSS (including SCSS, Sass & Less), Webpack/Babel, and more.
 
 ## Programming Languages
-![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=666666)
-![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=666666)
-![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=666666)
-<br>
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=666666)
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=666666)
+![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=666666)
+<br>
+![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=666666)
+![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=666666)
 
 ## Libraries & Tools
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=666666)
