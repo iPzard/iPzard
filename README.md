@@ -3,21 +3,21 @@
 My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in JavaScript (React, Redux, Node, Express, etc..), Python, modern HTML & CSS (including SCSS, Sass & Less), Webpack/Babel, and more.
 
 ## Programming Languages
-![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=229c72)
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=229c72)
+![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=229c72)
 <br>
-![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=229c72)
+![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=229c72)
 
 ## Libraries & Tools
-![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Electron-informational?style=for-the-badge&logo=electron&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=229c72)
+![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=229c72)
+![](https://img.shields.io/badge/NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=229c72)
+![](https://img.shields.io/badge/Electron-informational?style=for-the-badge&logo=electron&logoColor=white&color=229c72)
 <br>
-![](https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Babel-informational?style=for-the-badge&logo=babel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=229c72)
+![](https://img.shields.io/badge/Babel-informational?style=for-the-badge&logo=babel&logoColor=white&color=229c72)
 
 <br>
 
