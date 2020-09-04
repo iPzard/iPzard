@@ -1,4 +1,4 @@
-[![header](https://user-images.githubusercontent.com/8584126/92184024-d344c200-ee04-11ea-9fec-fce266f2bd1e.png)](https://www.linkedin.com/in/wade-daniel-w){:target="_blank"}
+[![header](https://user-images.githubusercontent.com/8584126/92184024-d344c200-ee04-11ea-9fec-fce266f2bd1e.png)](https://www.linkedin.com/in/wade-daniel-w)
 
 My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in JavaScript (React, Redux, Node, Express, etc..), Python, modern HTML & CSS (including SCSS, Sass & Less), Webpack/Babel, and more.
 
