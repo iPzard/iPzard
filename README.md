@@ -40,12 +40,12 @@ My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in 
 
 &nbsp;&nbsp;
 
-<a href="https://github.com/iPzard/electron-react-python-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=electron-react-python-template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
-
 <a href="https://github.com/iPzard/media-file-renamer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=media-file-renamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/iPzard/electron-react-python-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=electron-react-python-template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 &nbsp;&nbsp;
