@@ -20,7 +20,7 @@
 <br>
 
 ## 🕵️ GitHub Stats
-[![stats](https://github-readme-stats.vercel.app/api?username=iPzard&show_icons=true&line_height=32&count_private=true&hide=stars&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800)](https://github.com/iPzard)
+[![stats](https://github-readme-stats.vercel.app/api?username=iPzard&show_icons=true&line_height=40&count_private=true&hide=stars&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800)](https://github.com/iPzard)
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPzard&&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800)](https://github.com/iPzard)
 <br>
 
