@@ -19,6 +19,9 @@
 [![babel](https://img.shields.io/badge/Babel-informational?style=for-the-badge&logo=babel&logoColor=white&color=28b584)](https://babeljs.io)
 [![rollup](https://img.shields.io/badge/Rollup-informational?style=for-the-badge&logo=rollup.js&logoColor=white&color=28b584)](https://rollupjs.org)
 <br>
+[![photoshop](https://img.shields.io/badge/Photoshop-informational?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&color=28b584)](https://www.adobe.com/products/photoshop.html)
+[![gimp](https://img.shields.io/badge/Gimp-informational?style=for-the-badge&logo=gimp&logoColor=white&color=28b584)](https://www.gimp.org/)
+<br>
 
 ## 🕵️ GitHub Stats
 [![stats](https://github-readme-stats.vercel.app/api?username=iPzard&show_icons=true&line_height=40&count_private=true&hide=stars&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=60)](https://github.com/iPzard)
