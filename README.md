@@ -17,6 +17,7 @@
 <br>
 [![webpack](https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=28b584)](https://webpack.js.org)
 [![babel](https://img.shields.io/badge/Babel-informational?style=for-the-badge&logo=babel&logoColor=white&color=28b584)](https://babeljs.io)
+[![rollup](https://img.shields.io/badge/Rollup-informational?style=for-the-badge&logo=rollup.js&logoColor=white&color=28b584)](https://rollupjs.org)
 <br>
 
 ## 🕵️ GitHub Stats
