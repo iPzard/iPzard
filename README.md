@@ -30,31 +30,31 @@
 
 ## 🗃️ Popular Repos
 
-<a href="https://github.com/default-services/components">
+<a href="https://github.com/default-services/components#readme">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-services&repo=components&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=60&show_owner=true"/>
 </a>
 
-<a href="https://github.com/default-services/icons">
+<a href="https://github.com/default-services/icons#readme">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-services&repo=icons&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=60&show_owner=true" />
 </a>   
 
 &nbsp;&nbsp;
 
-<a href="https://github.com/iPzard/media-file-renamer">
+<a href="https://github.com/iPzard/media-file-renamer#readme">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=media-file-renamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=60" />
 </a>
 
-<a href="https://github.com/iPzard/electron-react-python-template">
+<a href="https://github.com/iPzard/electron-react-python-template#readme">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=electron-react-python-template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=60"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="https://github.com/iPzard/multi-app-express-server">
+<a href="https://github.com/iPzard/multi-app-express-server#readme">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=multi-app-express-server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=60" />
 </a>
 
-<a href="https://github.com/iPzard/mkvtoolnix-batch-tool">
+<a href="https://github.com/iPzard/mkvtoolnix-batch-tool#readme">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=mkvtoolnix-batch-tool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=60" />
 </a>
 
