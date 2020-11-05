@@ -28,7 +28,7 @@
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPzard&hide=html,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=60)](https://github.com/iPzard)
 <br>
 
-## 🗃️ Popular Repos
+## 🗃️ My Popular Repos
 
 <a href="https://github.com/default-services/components#readme">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-services&repo=components&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=60&show_owner=true"/>
