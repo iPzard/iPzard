@@ -14,16 +14,13 @@
 [![redux](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=28b584)](https://redux.js.org)
 [![nodejs](https://img.shields.io/badge/NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=28b584)](https://nodejs.org)
 <br>
-[![webpack](https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=28b584)](https://webpack.js.org)
-[![babel](https://img.shields.io/badge/Babel-informational?style=for-the-badge&logo=babel&logoColor=white&color=28b584)](https://babeljs.io)
-[![rollup](https://img.shields.io/badge/Rollup-informational?style=for-the-badge&logo=rollup.js&logoColor=white&color=28b584)](https://rollupjs.org)
-<br>
 [![electron](https://img.shields.io/badge/Electron-informational?style=for-the-badge&logo=electron&logoColor=white&color=28b584)](https://www.electronjs.org)
 [![django](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=white&color=28b584)](https://www.djangoproject.com/)
 [![flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=28b584)](https://flask.palletsprojects.com)
 <br>
+[![webpack](https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=28b584)](https://webpack.js.org)
+[![rollup](https://img.shields.io/badge/Rollup-informational?style=for-the-badge&logo=rollup.js&logoColor=white&color=28b584)](https://rollupjs.org)
 [![photoshop](https://img.shields.io/badge/Photoshop-informational?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&color=28b584)](https://www.adobe.com/products/photoshop.html)
-[![gimp](https://img.shields.io/badge/Gimp-informational?style=for-the-badge&logo=gimp&logoColor=white&color=28b584)](https://www.gimp.org/)
 <br>
 
 ## 🕵️ GitHub Stats
