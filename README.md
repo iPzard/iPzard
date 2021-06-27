@@ -1,4 +1,4 @@
-[![header](https://user-images.githubusercontent.com/8584126/123555193-0b711480-d739-11eb-83d6-2e07389929a3.png)](https://github.com/iPzard) 
+[![header](https://user-images.githubusercontent.com/8584126/123555248-630f8000-d739-11eb-9661-883620ae03b0.png)](https://github.com/iPzard) 
 <p><b>My name is Daniel Wade and I am an experienced, full-stack engineer; skilled in JavaScript (React, Redux, Node, Express, etc..), Python, Electron, modern HTML & CSS (including SCSS, Sass & Less), Webpack/Babel, Rollup, and more.</b></p>
 
 ## Programming Languages
