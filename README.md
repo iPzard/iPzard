@@ -39,12 +39,12 @@
 
 &nbsp;&nbsp;
 
-<a href="https://github.com/iPzard/media-file-renamer#readme">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=media-file-renamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" />
-</a>
-
 <a href="https://github.com/iPzard/electron-react-python-template#readme">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=electron-react-python-template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800"/>
+</a>
+
+<a href="https://github.com/iPzard/media-file-renamer#readme">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iPzard&repo=media-file-renamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" />
 </a>
 
 &nbsp;&nbsp;
