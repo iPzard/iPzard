@@ -1,5 +1,5 @@
 [![header](https://user-images.githubusercontent.com/8584126/123555248-630f8000-d739-11eb-9661-883620ae03b0.png)](https://github.com/iPzard) 
-<p><b>My name is Daniel Wade, I'm an experienced full-stack engineer; skilled in JavaScript <i>(e.g., React, Redux, Node, Express)</i>, Python, semantic HTML, CSS – including SCSS, Sass & Less, Webpack/Rollup, and more.</b></p>
+<p><b>Studied Web Technologies at Harvard University, skilled in JavaScript <i>(e.g., React, Redux, Node, NextJS, Electron)</i>, Python, GraphQL, Webpack, Rollup, and more.</b></p>
 
 ## Programming Languages
 [![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=28b584)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
