@@ -24,7 +24,7 @@
 
 ## 🕵️ GitHub Stats
 [![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ipzard&show_icons=true&line_height=40&hide=stars&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800)](https://github.com/iPzard)
-[![languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iPzard&hide=html,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800)](https://github.com/iPzard)
+[![languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iPzard&hide=html,c,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800)](https://github.com/iPzard)
 <br>
 
 ## 🗃️ My Repositories
